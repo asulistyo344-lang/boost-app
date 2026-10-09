@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Runtime data
+backend/logs/
+*.log
+
+# Secrets
+.env
+.env.*
+!.env.example
+**/firebase-credentials.json
+**/*service-account*.json
+
+# Android / Gradle generated files
+.gradle/
+**/build/
+local.properties
