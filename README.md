@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚡ BOOST — TikTok Affiliate Content Generator
 
 AI-powered content studio for TikTok affiliates.
@@ -127,3 +128,7 @@ Total target: ~25-30 seconds
 | Trending feed  | 2/5  | All 5 + heat    |
 | Watermark      | Yes  | No              |
 | HD downloads   | No   | Yes             |
+=======
+# boost-app
+AI Tiktok affiliates Content Creator 
+>>>>>>> origin/main
